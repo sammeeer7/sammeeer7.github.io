@@ -1,3 +1,5 @@
-name: Sameer Sayyad
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title: Sameer Sayyad | Portfolio
+email: sameer7sayyad@email.com
+description: >- 
+  AI Engineer, Web Developer, ML Researcher. Passionate about building impactful systems.
+url: "https://sameersayyad.github.io"
