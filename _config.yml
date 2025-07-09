@@ -3,3 +3,11 @@ email: sameer7sayyad@email.com
 description: >- 
   AI Engineer, Web Developer, ML Researcher. Passionate about building impactful systems.
 url: "https://sameersayyad.github.io"
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
